@@ -1,0 +1,7 @@
+# Упрощенные зависимости для тестирования (без PostgreSQL/ClickHouse)
+sqlalchemy==2.0.30
+beautifulsoup4==4.12.3
+requests==2.31.0
+python-dateutil==2.9.0.post0
+lxml==5.2.1
+regex==2024.5.15

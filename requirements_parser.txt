@@ -1,0 +1,15 @@
+# Основные зависимости для парсинга судебных решений
+sqlalchemy==2.0.30
+# psycopg2-binary==2.9.9  # Требует установки PostgreSQL, закомментировано для тестирования
+beautifulsoup4==4.12.3
+requests==2.31.0
+selenium==4.20.0
+webdriver-manager==4.0.2
+# clickhouse-sqlalchemy==0.6.2  # Требует ClickHouse, закомментировано для тестирования
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.6.4
+python-dateutil==2.9.0.post0
+lxml==5.2.1
+regex==2024.5.15
